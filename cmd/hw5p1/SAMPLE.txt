@@ -1,0 +1,12 @@
+Input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccc
+Letter b differs by 31.5%.
+Letter c differs by 28.0%.
+Letter i differs by -7.3%.
+Letter a differs by 28.2%.
+Letter s differs by -6.3%.
+Letter t differs by -9.1%.
+Letter e differs by -12.0%.
+Letter r differs by -6.0%.
+Letter o differs by -7.7%.
+Letter h differs by -5.9%.
+Letter n differs by -6.9%.
